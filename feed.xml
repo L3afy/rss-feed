@@ -12,7 +12,7 @@
 	<atom:link href="https://www.finsmes.com/feed" rel="self" type="application/rss+xml" />
 	<link>https://www.finsmes.com/</link>
 	<description><![CDATA[]]></description>
-	<lastBuildDate>Wed, 22 Apr 2026 14:50:22 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 22 Apr 2026 14:54:18 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>OrangeQS Extend Seed Funding to €15M</title>
+		<link>https://www.finsmes.com/2026/04/orangeqs-extend-seed-funding-to-e15m.html</link>
+		
+		<dc:creator><![CDATA[FinSMEs]]></dc:creator>
+		<pubDate>Wed, 22 Apr 2026 14:54:13 +0000</pubDate>
+				<category><![CDATA[Netherlands]]></category>
+		<category><![CDATA[EIC]]></category>
+		<category><![CDATA[OrangeQS]]></category>
+		<guid isPermaLink="false">https://www.finsmes.com/?p=393760</guid>
+
+					<description><![CDATA[<p>Full report available on FinSMEs. Click the link to read the original article.</p>
+<p>The post <a href="https://www.finsmes.com/2026/04/orangeqs-extend-seed-funding-to-e15m.html">OrangeQS Extend Seed Funding to €15M</a> appeared first on <a href="https://www.finsmes.com">FinSMEs</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Zynt Raises €424.4k in Pre-Seed Funding</title>
 		<link>https://www.finsmes.com/2026/04/zynt-raises-e424-4k-in-pre-seed-funding.html</link>
 		
@@ -646,25 +664,6 @@
 		
 		
 			</item>
-		<item>
-		<title>Humble Raises $24M in Seed Funding</title>
-		<link>https://www.finsmes.com/2026/04/humble-raises-24m-in-seed-funding.html</link>
-		
-		<dc:creator><![CDATA[FinSMEs]]></dc:creator>
-		<pubDate>Tue, 21 Apr 2026 14:13:11 +0000</pubDate>
-				<category><![CDATA[USA]]></category>
-		<category><![CDATA[Eclipse]]></category>
-		<category><![CDATA[Energy Impact Partners]]></category>
-		<category><![CDATA[Humble]]></category>
-		<guid isPermaLink="false">https://www.finsmes.com/?p=393580</guid>
-
-					<description><![CDATA[<p>Full report available on FinSMEs. Click the link to read the original article.</p>
-<p>The post <a href="https://www.finsmes.com/2026/04/humble-raises-24m-in-seed-funding.html">Humble Raises $24M in Seed Funding</a> appeared first on <a href="https://www.finsmes.com">FinSMEs</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
 	</channel>
 </rss>
 
@@ -672,5 +671,5 @@
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/?utm_source=w3tc&utm_medium=footer_comment&utm_campaign=free_plugin
 
 
-Served from: www.finsmes.com @ 2026-04-22 15:53:41 by W3 Total Cache
+Served from: www.finsmes.com @ 2026-04-22 15:54:31 by W3 Total Cache
 -->
