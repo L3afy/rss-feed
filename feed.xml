@@ -12,7 +12,7 @@
 	<atom:link href="https://www.finsmes.com/feed" rel="self" type="application/rss+xml" />
 	<link>https://www.finsmes.com/</link>
 	<description><![CDATA[]]></description>
-	<lastBuildDate>Fri, 24 Apr 2026 14:17:02 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 24 Apr 2026 16:16:11 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -313,7 +313,11 @@
 		<dc:creator><![CDATA[FinSMEs]]></dc:creator>
 		<pubDate>Fri, 24 Apr 2026 08:39:59 +0000</pubDate>
 				<category><![CDATA[Philippines]]></category>
+		<category><![CDATA[FJ Labs]]></category>
+		<category><![CDATA[Moore Strategic Ventures]]></category>
 		<category><![CDATA[Salmon]]></category>
+		<category><![CDATA[Spice Expeditions]]></category>
+		<category><![CDATA[WUIMC]]></category>
 		<guid isPermaLink="false">https://www.finsmes.com/?p=393982</guid>
 
 					<description><![CDATA[<p>Full report available on FinSMEs. Click the link to read the original article.</p>
@@ -658,5 +662,5 @@
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/?utm_source=w3tc&utm_medium=footer_comment&utm_campaign=free_plugin
 
 
-Served from: www.finsmes.com @ 2026-04-24 15:26:48 by W3 Total Cache
+Served from: www.finsmes.com @ 2026-04-24 17:24:06 by W3 Total Cache
 -->
