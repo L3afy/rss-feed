@@ -12,7 +12,7 @@
 	<atom:link href="https://www.finsmes.com/feed" rel="self" type="application/rss+xml" />
 	<link>https://www.finsmes.com/</link>
 	<description><![CDATA[]]></description>
-	<lastBuildDate>Wed, 06 May 2026 15:22:48 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 06 May 2026 15:44:40 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -52,7 +52,7 @@
 		<title>Astranis Raises $455M in Funding</title>
 		<link>https://www.finsmes.com/2026/05/astranis-raises-455m-in-funding.html</link>
 		
-		<dc:creator><![CDATA[Matteo Tisei]]></dc:creator>
+		<dc:creator><![CDATA[FinSMEs]]></dc:creator>
 		<pubDate>Wed, 06 May 2026 15:05:11 +0000</pubDate>
 				<category><![CDATA[USA]]></category>
 		<category><![CDATA[Andreessen Horowitz]]></category>
@@ -678,5 +678,5 @@
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/?utm_source=w3tc&utm_medium=footer_comment&utm_campaign=free_plugin
 
 
-Served from: www.finsmes.com @ 2026-05-06 16:41:53 by W3 Total Cache
+Served from: www.finsmes.com @ 2026-05-06 16:45:35 by W3 Total Cache
 -->
