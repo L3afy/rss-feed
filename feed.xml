@@ -12,7 +12,7 @@
 	<atom:link href="https://www.finsmes.com/feed" rel="self" type="application/rss+xml" />
 	<link>https://www.finsmes.com/</link>
 	<description><![CDATA[]]></description>
-	<lastBuildDate>Wed, 13 May 2026 14:57:39 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 13 May 2026 14:58:03 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -34,6 +34,12 @@
 		<dc:creator><![CDATA[FinSMEs]]></dc:creator>
 		<pubDate>Wed, 13 May 2026 14:57:39 +0000</pubDate>
 				<category><![CDATA[USA]]></category>
+		<category><![CDATA[Dash Fund]]></category>
+		<category><![CDATA[Fika Ventures]]></category>
+		<category><![CDATA[Outmarket AI]]></category>
+		<category><![CDATA[Permanent Capital Ventures]]></category>
+		<category><![CDATA[SignalFire]]></category>
+		<category><![CDATA[TTV Capital]]></category>
 		<guid isPermaLink="false">https://www.finsmes.com/?p=395705</guid>
 
 					<description><![CDATA[<p>Full report available on FinSMEs. Click the link to read the original article.</p>
@@ -664,5 +670,5 @@
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/?utm_source=w3tc&utm_medium=footer_comment&utm_campaign=free_plugin
 
 
-Served from: www.finsmes.com @ 2026-05-13 15:57:42 by W3 Total Cache
+Served from: www.finsmes.com @ 2026-05-13 15:58:28 by W3 Total Cache
 -->
