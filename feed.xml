@@ -12,7 +12,7 @@
 	<atom:link href="https://www.finsmes.com/feed" rel="self" type="application/rss+xml" />
 	<link>https://www.finsmes.com/</link>
 	<description><![CDATA[]]></description>
-	<lastBuildDate>Wed, 27 May 2026 15:33:40 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 27 May 2026 16:55:30 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,27 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Certo Raises $4M in Seed Funding</title>
+		<link>https://www.finsmes.com/2026/05/certo-raises-4m-in-seed-funding.html</link>
+		
+		<dc:creator><![CDATA[FinSMEs]]></dc:creator>
+		<pubDate>Wed, 27 May 2026 16:54:02 +0000</pubDate>
+				<category><![CDATA[France]]></category>
+		<category><![CDATA[Certo]]></category>
+		<category><![CDATA[Daphni]]></category>
+		<category><![CDATA[Entrepreneurs First]]></category>
+		<category><![CDATA[Motier Ventures]]></category>
+		<category><![CDATA[Transpose Platform Management]]></category>
+		<guid isPermaLink="false">https://www.finsmes.com/?p=396860</guid>
+
+					<description><![CDATA[<p>Full report available on FinSMEs. Click the link to read the original article.</p>
+<p>The post <a href="https://www.finsmes.com/2026/05/certo-raises-4m-in-seed-funding.html">Certo Raises $4M in Seed Funding</a> appeared first on <a href="https://www.finsmes.com">FinSMEs</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Thea Energy Raises $100M in Series B Funding</title>
 		<link>https://www.finsmes.com/2026/05/thea-energy-raises-100m-in-series-b-funding.html</link>
 		
@@ -610,24 +631,6 @@
 		
 		
 			</item>
-		<item>
-		<title>Adenocyte Receives Investment From iGan Partners</title>
-		<link>https://www.finsmes.com/2026/05/adenocyte-receives-investment-from-igan-partners.html</link>
-		
-		<dc:creator><![CDATA[FinSMEs]]></dc:creator>
-		<pubDate>Tue, 26 May 2026 13:47:05 +0000</pubDate>
-				<category><![CDATA[Israel]]></category>
-		<category><![CDATA[Adenocyte]]></category>
-		<category><![CDATA[iGan Partners]]></category>
-		<guid isPermaLink="false">https://www.finsmes.com/?p=396705</guid>
-
-					<description><![CDATA[<p>Full report available on FinSMEs. Click the link to read the original article.</p>
-<p>The post <a href="https://www.finsmes.com/2026/05/adenocyte-receives-investment-from-igan-partners.html">Adenocyte Receives Investment From iGan Partners</a> appeared first on <a href="https://www.finsmes.com">FinSMEs</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
 	</channel>
 </rss>
 
@@ -635,5 +638,5 @@
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/?utm_source=w3tc&utm_medium=footer_comment&utm_campaign=free_plugin
 
 
-Served from: www.finsmes.com @ 2026-05-27 16:35:18 by W3 Total Cache
+Served from: www.finsmes.com @ 2026-05-27 21:17:14 by W3 Total Cache
 -->
