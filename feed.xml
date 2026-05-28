@@ -12,7 +12,7 @@
 	<atom:link href="https://www.finsmes.com/feed" rel="self" type="application/rss+xml" />
 	<link>https://www.finsmes.com/</link>
 	<description><![CDATA[]]></description>
-	<lastBuildDate>Thu, 28 May 2026 14:49:51 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 28 May 2026 15:02:53 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Canals Raises $35M in Funding</title>
+		<link>https://www.finsmes.com/2026/05/canals-raises-35m-in-funding.html</link>
+		
+		<dc:creator><![CDATA[FinSMEs]]></dc:creator>
+		<pubDate>Thu, 28 May 2026 15:01:46 +0000</pubDate>
+				<category><![CDATA[USA]]></category>
+		<category><![CDATA[Base10 Partners]]></category>
+		<category><![CDATA[Canals]]></category>
+		<guid isPermaLink="false">https://www.finsmes.com/?p=396991</guid>
+
+					<description><![CDATA[<p>Full report available on FinSMEs. Click the link to read the original article.</p>
+<p>The post <a href="https://www.finsmes.com/2026/05/canals-raises-35m-in-funding.html">Canals Raises $35M in Funding</a> appeared first on <a href="https://www.finsmes.com">FinSMEs</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>BC.GAME: BC Engine Stakers Have Earned Over $2M in Rewards</title>
 		<link>https://www.finsmes.com/2026/05/bc-game-bc-engine-stakers-have-earned-over-2m-in-rewards.html</link>
 		
@@ -611,24 +629,6 @@
 		
 		
 			</item>
-		<item>
-		<title>Amusement Connect Receives Equity Investment from Periscope Equity</title>
-		<link>https://www.finsmes.com/2026/05/amusement-connect-receives-equity-investment-from-periscope-equity.html</link>
-		
-		<dc:creator><![CDATA[FinSMEs]]></dc:creator>
-		<pubDate>Thu, 28 May 2026 07:54:55 +0000</pubDate>
-				<category><![CDATA[USA]]></category>
-		<category><![CDATA[Amusement Connect]]></category>
-		<category><![CDATA[Periscope Equity]]></category>
-		<guid isPermaLink="false">https://www.finsmes.com/?p=396874</guid>
-
-					<description><![CDATA[<p>Full report available on FinSMEs. Click the link to read the original article.</p>
-<p>The post <a href="https://www.finsmes.com/2026/05/amusement-connect-receives-equity-investment-from-periscope-equity.html">Amusement Connect Receives Equity Investment from Periscope Equity</a> appeared first on <a href="https://www.finsmes.com">FinSMEs</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
 	</channel>
 </rss>
 
@@ -636,5 +636,5 @@
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/?utm_source=w3tc&utm_medium=footer_comment&utm_campaign=free_plugin
 
 
-Served from: www.finsmes.com @ 2026-05-28 16:00:20 by W3 Total Cache
+Served from: www.finsmes.com @ 2026-05-28 16:03:05 by W3 Total Cache
 -->
