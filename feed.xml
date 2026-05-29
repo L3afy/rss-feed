@@ -12,7 +12,7 @@
 	<atom:link href="https://www.finsmes.com/feed" rel="self" type="application/rss+xml" />
 	<link>https://www.finsmes.com/</link>
 	<description><![CDATA[]]></description>
-	<lastBuildDate>Fri, 29 May 2026 12:52:33 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 29 May 2026 13:29:03 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>FinSMEs Intelligence &#8211; Report May 25z To May 29 2026</title>
+		<link>https://www.finsmes.com/2026/05/finsmes-intelligence-report-18-may-to-22-may-2026.html</link>
+		
+		<dc:creator><![CDATA[FinSMEs]]></dc:creator>
+		<pubDate>Fri, 29 May 2026 13:29:00 +0000</pubDate>
+				<category><![CDATA[Report]]></category>
+		<category><![CDATA[FinSMEs Intelligence]]></category>
+		<category><![CDATA[Weekly Report]]></category>
+		<guid isPermaLink="false">https://www.finsmes.com/?p=397065</guid>
+
+					<description><![CDATA[<p>Full report available on FinSMEs. Click the link to read the original article.</p>
+<p>The post <a href="https://www.finsmes.com/2026/05/finsmes-intelligence-report-18-may-to-22-may-2026.html">FinSMEs Intelligence &#8211; Report May 25z To May 29 2026</a> appeared first on <a href="https://www.finsmes.com">FinSMEs</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Lokam.ai Raises $350K in Funding</title>
 		<link>https://www.finsmes.com/2026/05/lokam-ai-raises-350k-in-funding.html</link>
 		
@@ -617,26 +635,6 @@
 		
 		
 			</item>
-		<item>
-		<title>Solstice Raises $21M in Series A Funding</title>
-		<link>https://www.finsmes.com/2026/05/solstice-raises-21m-in-series-a-funding.html</link>
-		
-		<dc:creator><![CDATA[FinSMEs]]></dc:creator>
-		<pubDate>Thu, 28 May 2026 13:03:31 +0000</pubDate>
-				<category><![CDATA[USA]]></category>
-		<category><![CDATA[Solstice]]></category>
-		<category><![CDATA[Transformation Capital]]></category>
-		<category><![CDATA[Twelve Below]]></category>
-		<category><![CDATA[Virtue Ventures]]></category>
-		<guid isPermaLink="false">https://www.finsmes.com/?p=396936</guid>
-
-					<description><![CDATA[<p>Full report available on FinSMEs. Click the link to read the original article.</p>
-<p>The post <a href="https://www.finsmes.com/2026/05/solstice-raises-21m-in-series-a-funding.html">Solstice Raises $21M in Series A Funding</a> appeared first on <a href="https://www.finsmes.com">FinSMEs</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
 	</channel>
 </rss>
 
@@ -644,5 +642,5 @@
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/?utm_source=w3tc&utm_medium=footer_comment&utm_campaign=free_plugin
 
 
-Served from: www.finsmes.com @ 2026-05-29 14:14:22 by W3 Total Cache
+Served from: www.finsmes.com @ 2026-05-29 15:00:57 by W3 Total Cache
 -->
