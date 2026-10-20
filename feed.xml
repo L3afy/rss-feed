@@ -12,7 +12,7 @@
 	<atom:link href="https://www.finsmes.com/feed" rel="self" type="application/rss+xml" />
 	<link>https://www.finsmes.com/</link>
 	<description><![CDATA[]]></description>
-	<lastBuildDate>Tue, 20 Oct 2026 17:54:20 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 20 Oct 2026 18:16:11 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,22 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>BillGo Is In Your Payment Network. Here’s What That Actually Means</title>
+		<link>https://www.finsmes.com/2026/10/billgo-is-in-your-payment-network-heres-what-that-actually-means.html</link>
+		
+		<dc:creator><![CDATA[FinSMEs]]></dc:creator>
+		<pubDate>Tue, 20 Oct 2026 18:16:04 +0000</pubDate>
+				<category><![CDATA[analysis]]></category>
+		<guid isPermaLink="false">https://www.finsmes.com/?p=409208</guid>
+
+					<description><![CDATA[<p>Full report available on FinSMEs. Click the link to read the original article.</p>
+<p>The post <a href="https://www.finsmes.com/2026/10/billgo-is-in-your-payment-network-heres-what-that-actually-means.html">BillGo Is In Your Payment Network. Here’s What That Actually Means</a> appeared first on <a href="https://www.finsmes.com">FinSMEs</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Vrtx Raises $3.6M in Pre-Seed Funding</title>
 		<link>https://www.finsmes.com/2026/10/vrtx-raises-3-6m-in-pre-seed-funding.html</link>
 		
@@ -678,26 +694,6 @@
 		
 		
 			</item>
-		<item>
-		<title>Tolan Raises $30M in Funding</title>
-		<link>https://www.finsmes.com/2026/10/tolan-raises-30m-in-funding.html</link>
-		
-		<dc:creator><![CDATA[FinSMEs]]></dc:creator>
-		<pubDate>Tue, 20 Oct 2026 09:33:49 +0000</pubDate>
-				<category><![CDATA[USA]]></category>
-		<category><![CDATA[Homebrew]]></category>
-		<category><![CDATA[Khosla Ventures]]></category>
-		<category><![CDATA[Tolan]]></category>
-		<category><![CDATA[Union Square Ventures]]></category>
-		<guid isPermaLink="false">https://www.finsmes.com/?p=409077</guid>
-
-					<description><![CDATA[<p>Full report available on FinSMEs. Click the link to read the original article.</p>
-<p>The post <a href="https://www.finsmes.com/2026/10/tolan-raises-30m-in-funding.html">Tolan Raises $30M in Funding</a> appeared first on <a href="https://www.finsmes.com">FinSMEs</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
 	</channel>
 </rss>
 
@@ -706,5 +702,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Page Caching using Disk 
 
-Served from: www.finsmes.com @ 2026-10-20 18:59:28 by W3 Total Cache
+Served from: www.finsmes.com @ 2026-10-20 20:20:49 by W3 Total Cache
 -->
