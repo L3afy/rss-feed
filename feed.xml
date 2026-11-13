@@ -12,7 +12,7 @@
 	<atom:link href="https://www.finsmes.com/feed" rel="self" type="application/rss+xml" />
 	<link>https://www.finsmes.com/</link>
 	<description><![CDATA[]]></description>
-	<lastBuildDate>Fri, 13 Nov 2026 12:23:43 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 13 Nov 2026 16:15:28 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>What Is MDR? Managed Detection and Response for Growing Companies</title>
+		<link>https://www.finsmes.com/2026/11/what-is-mdr-managed-detection-and-response-for-growing-companies.html</link>
+		
+		<dc:creator><![CDATA[FinSMEs]]></dc:creator>
+		<pubDate>Fri, 13 Nov 2026 16:15:22 +0000</pubDate>
+				<category><![CDATA[analysis]]></category>
+		<category><![CDATA[business tips]]></category>
+		<guid isPermaLink="false">https://www.finsmes.com/?p=411106</guid>
+
+					<description><![CDATA[<p>Full report available on FinSMEs. Click the link to read the original article.</p>
+<p>The post <a href="https://www.finsmes.com/2026/11/what-is-mdr-managed-detection-and-response-for-growing-companies.html">What Is MDR? Managed Detection and Response for Growing Companies</a> appeared first on <a href="https://www.finsmes.com">FinSMEs</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>FinSMEs Intelligence – Weekly Report November, 9 – November, 15, 2026</title>
 		<link>https://www.finsmes.com/2026/11/finsmes-intelligence-weekly-report-november-9-november-15-2026.html</link>
 		
@@ -651,24 +668,6 @@
 		
 		
 			</item>
-		<item>
-		<title>MyoWorks Receives Investment From Mastercraft Ventures</title>
-		<link>https://www.finsmes.com/2026/11/myoworks-receives-investment-from-mastercraft-ventures.html</link>
-		
-		<dc:creator><![CDATA[FinSMEs]]></dc:creator>
-		<pubDate>Thu, 12 Nov 2026 14:16:55 +0000</pubDate>
-				<category><![CDATA[USA]]></category>
-		<category><![CDATA[Mastercraft Ventures]]></category>
-		<category><![CDATA[MyoWorks]]></category>
-		<guid isPermaLink="false">https://www.finsmes.com/?p=411000</guid>
-
-					<description><![CDATA[<p>Full report available on FinSMEs. Click the link to read the original article.</p>
-<p>The post <a href="https://www.finsmes.com/2026/11/myoworks-receives-investment-from-mastercraft-ventures.html">MyoWorks Receives Investment From Mastercraft Ventures</a> appeared first on <a href="https://www.finsmes.com">FinSMEs</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
 	</channel>
 </rss>
 
@@ -676,5 +675,5 @@
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/?utm_source=w3tc&utm_medium=footer_comment&utm_campaign=free_plugin
 
 
-Served from: www.finsmes.com @ 2026-11-13 13:50:51 by W3 Total Cache
+Served from: www.finsmes.com @ 2026-11-13 20:29:00 by W3 Total Cache
 -->
